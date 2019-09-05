@@ -1,0 +1,35 @@
+{
+	"author": "Grandhelmsman <desupport@grandhelmsman.com>",
+	"title": "正舵者 sarah-jnode 开发手册",
+	"generator": "site",
+	"output" : null,
+
+    "plugins": [
+        "theme-comscore",
+		"tbfed-pagefooter"
+    ],
+
+	"pluginsConfig": {
+		"tbfed-pagefooter": {
+			"copyright":"Copyright &copy 正舵者 2019",
+			"modify_label": "最后更新时间：",
+			"modify_format": "YYYY-MM-DD HH:mm:ss"
+		},
+		"theme-default": {
+			"showLevel": true
+		}
+	},
+
+	"links" : {
+		"sidebar" : {
+			"Home" : ""
+		}
+	},
+
+	"styles" : {
+		"website" : "styles/website.css"
+		
+	}
+
+}
+

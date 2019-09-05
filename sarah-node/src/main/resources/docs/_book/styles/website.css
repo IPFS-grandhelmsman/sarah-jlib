@@ -1,0 +1,29 @@
+/* CSS for website */
+.markdown-section code {
+	padding: .2em;
+	margin: 0;
+	font-size: .85em;
+	color: #c7254e;
+}
+
+.markdown-section strong {
+	color:#cc0000;
+}
+.atoc {
+	padding-right: 30px !important;
+	right: 20px;
+}
+.markdown-section h1:first-of-type {
+	margin-top:0;
+}
+.page-inner {
+	padding-top:0px;
+}
+
+/* 代码样式 */
+pre {
+	border:1px solid #e1e1e1 !important;
+	background:#f1f1f1 !important;
+	border-radius:5px;
+}
+
